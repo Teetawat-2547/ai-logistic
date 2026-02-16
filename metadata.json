@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AI Logistics & Supply Chain",
+  "description": "An advanced platform exploring AI innovations, real-time tracking, and labor optimization in the logistics and supply chain industry.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
